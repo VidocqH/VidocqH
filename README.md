@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Code for fun.
+### Code for fun. 😈
